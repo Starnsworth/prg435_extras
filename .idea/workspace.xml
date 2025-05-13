@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e64ce460-5ee9-461e-b683-c0251077fc4f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/NumGuessV1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumGuessV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passDupeCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passLenRules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passSeqCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passwordHash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prg435_extras.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prg435_extras.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +59,10 @@
     "Python.passwordHash.executor": "Run",
     "Python.rps.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/jorda/source/repos/prg435_extras",
+    "last_opened_file_path": "C:/source/repos/prg435_extras",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,8 +80,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
-        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
       </set>
     </attachedChunks>
   </component>
@@ -99,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747117273111</updated>
       <workItem from="1747117274416" duration="10079000" />
+      <workItem from="1747175165031" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
