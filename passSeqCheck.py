@@ -10,5 +10,5 @@ def checkPassSeq(string, length=3):
             return True, chunk
     return False, None
 
-userPass = input("Enter your password : ")
-print(checkPassSeq(userPass))
+#userPass = input("Enter your password : ")
+#print(checkPassSeq(userPass))

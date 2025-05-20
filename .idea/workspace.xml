@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e64ce460-5ee9-461e-b683-c0251077fc4f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prg435_extras.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prg435_extras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPIDERMAN-review.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boarding_pass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hidden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/morephp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password_checker_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rockyou.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spdier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testtt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passDupeCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/passDupeCheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passLenRules.py" beforeDir="false" afterPath="$PROJECT_DIR$/passLenRules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passSeqCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/passSeqCheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordHash.py" beforeDir="false" afterPath="$PROJECT_DIR$/passwordHash.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,33 +63,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.NumGuessV1.executor": "Run",
-    "Python.NumGuessV2.executor": "Run",
-    "Python.PortCheck.executor": "Run",
-    "Python.passDupeCheck.executor": "Run",
-    "Python.passLenRules.executor": "Run",
-    "Python.passSeqCheck.executor": "Run",
-    "Python.passwordHash.executor": "Run",
-    "Python.rps.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/source/repos/prg435_extras",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.NumGuessV1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NumGuessV2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PortCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hidden.executor&quot;: &quot;Run&quot;,
+    &quot;Python.otp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.passDupeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.passLenRules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.passSeqCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.passwordHash.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_checker_ui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.php.executor&quot;: &quot;Run&quot;,
+    &quot;Python.qr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spdier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spider2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testtt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/source/repos/prg435_extras&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jorda\source\repos\prg435_extras" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\source\repos\prg435_extras" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -94,7 +120,15 @@
       <option name="presentableId" value="Default" />
       <updated>1747117273111</updated>
       <workItem from="1747117274416" duration="10079000" />
-      <workItem from="1747175165031" duration="101000" />
+      <workItem from="1747175165031" duration="1822000" />
+      <workItem from="1747230531855" duration="639000" />
+      <workItem from="1747276548806" duration="39000" />
+      <workItem from="1747277195840" duration="5132000" />
+      <workItem from="1747297719850" duration="2261000" />
+      <workItem from="1747442022203" duration="7762000" />
+      <workItem from="1747710902685" duration="388000" />
+      <workItem from="1747711311623" duration="292000" />
+      <workItem from="1747712117017" duration="216000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -124,11 +158,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/prg435_extras$NumGuessV2.coverage" NAME="NumGuessV2 Coverage Results" MODIFIED="1747119240654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/prg435_extras$passLenRules.coverage" NAME="passLenRules Coverage Results" MODIFIED="1747131441673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/prg435_extras$passDupeCheck.coverage" NAME="passDupeCheck Coverage Results" MODIFIED="1747127423136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/prg435_extras$rps.coverage" NAME="rps Coverage Results" MODIFIED="1747120839239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$php.coverage" NAME="php Coverage Results" MODIFIED="1747447322984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/prg435_extras$PortCheck.coverage" NAME="PortCheck Coverage Results" MODIFIED="1747127117823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/prg435_extras$NumGuessV1.coverage" NAME="NumGuessV1 Coverage Results" MODIFIED="1747119084714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$qr.coverage" NAME="qr Coverage Results" MODIFIED="1747454758919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$spider2.coverage" NAME="spider2 Coverage Results" MODIFIED="1747445743896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$password_checker_ui.coverage" NAME="password_checker_ui Coverage Results" MODIFIED="1747298074016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$hidden.coverage" NAME="hidden Coverage Results" MODIFIED="1747450046831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$otp.coverage" NAME="otp Coverage Results" MODIFIED="1747445146511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$spdier.coverage" NAME="spdier Coverage Results" MODIFIED="1747445636037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$testtt.coverage" NAME="testtt Coverage Results" MODIFIED="1747451423278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$passLenRules.coverage" NAME="passLenRules Coverage Results" MODIFIED="1747131441673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prg435_extras$passDupeCheck.coverage" NAME="passDupeCheck Coverage Results" MODIFIED="1747127423136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/prg435_extras$passwordHash.coverage" NAME="passwordHash Coverage Results" MODIFIED="1747126390885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/prg435_extras$passSeqCheck.coverage" NAME="passSeqCheck Coverage Results" MODIFIED="1747128342350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

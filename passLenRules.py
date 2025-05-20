@@ -74,27 +74,11 @@ minlength = 10
 
 def beginComparison(userpass):
     if 14 > len(userpass) >= minlength :
-        print("Password is valid 1")
+        return "Password is good length"
         checkPassword(userpass)
     elif len(userpass)>= 14:
-        print("Password is valid")
+        return "Password is very good length"
         checkPassword(userpass,3)
     else:
-        print("Password too short.")
+        return "Password too short."
 
-testList = [
-    "Ab!1234567",        # 10 chars: valid all 4
-    "Abcdefghij",        # 10 chars: missing number/symbol
-    "!bcdefghij",        # 10 chars: missing uppercase
-    "1bcdefghij",        # 10 chars: missing uppercase/symbol
-    "abcdefghijklmn",    # 14 chars: no upper, no number/symbol
-    "ABCdefghijklmn",    # 14 chars: no number/symbol
-    "1bcdefghijklmn",    # 14 chars: not enough uppercase
-    "!bcdefghijklmn",    # 14 chars: not enough uppercase
-    "ABc!defGHIjklmn",   # 15 chars: valid (3+ uppers, 3+ lowers, 1 symbol)
-    "Abc!defGhij",       # 11 chars: valid (all 4)
-    "AbcdefGhijkl",      # 12 chars: only 2 rules (upper & lower)
-]
-for pw in testList:
-    print(f"testing: {pw}")
-    beginComparison(pw)

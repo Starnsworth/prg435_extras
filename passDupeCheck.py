@@ -1,14 +1,13 @@
 #    Password checker that does not permit duplicate characters together. These passwords will be detected and blocked. ["0000000000", "aabbccddeeffgg", "abc123@#$$"]
 
-def checkforduplicates(userpass):
-    prevChar = ''
+def check_for_duplicates(userpass):
+    prev_char = ''
     for char in userpass:
-        if char != prevChar :
-            prevChar = char
+        if char != prev_char :
+            prev_char = char
         else:
-            print("Found duplicate character")
-            return False
-    print("Password complies with rules")
+            return "Found duplicate character"
+    return "Password complies with  duplicate character rules"
 
-userpass = input("Enter password to check: ")
-checkforduplicates(userpass)
+#userpass = input("Enter password to check: ")
+#check_for_duplicates(userpass)
